@@ -197,7 +197,7 @@ dependencies {
     implementation libs.vaadinJson
     implementation libs.hibernateTypes
     liquibaseRuntime libs.hibernateTypes
-    implementation 'com.eatthepath:java-otp:0.4.0'
+    implementation 'com.eatthepath:java-otp:1.0.0'
     implementation libs.postHog
     implementation libs.micrometerPrometheus
     implementation 'org.dom4j:dom4j:2.1.4'
